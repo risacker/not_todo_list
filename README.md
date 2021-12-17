@@ -6,3 +6,6 @@ I came up with an idea which is in the form of app where you can eliminate the h
 
 Before adding tasks:-
 <img src=https://telegra.ph/file/cf02d3e3df43071c4d7d6.png>
+
+After adding tasks:-
+<img src=https://telegra.ph/file/729fa260ede7a61e4b6da.png>
